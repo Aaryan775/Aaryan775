@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaryan Patel</h1>
 <h3 align="center">Aspiring Full Stack Developer developer and Creating Innovative Software Solutions</h3>
 
-<img align="right"  width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right"  width="350" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryan775&label=Profile%20views&color=0e75b6&style=flat" alt="aaryan775" /> </p>
 
